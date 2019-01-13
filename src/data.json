@@ -1,0 +1,31 @@
+{
+    "flags":[
+        {
+        "position" :
+            { 
+            "lat": 31.77,
+            "lng": 35.21 
+        },
+        "title": "Herusalen"
+        },
+        {
+            "position" :
+                { 
+                "lat": 31.87,
+                "lng": 35.31 
+            },
+            "title": "Herusalen"
+            },
+        {
+        "position" :
+            { 
+            "lat": 31.87,
+            "lng": 35.51 
+        },
+        "title": "Jery"
+        }
+    ]
+    
+
+}
+
